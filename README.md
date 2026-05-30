@@ -1,3 +1,3 @@
 # java
-this is my first git resoiratory
+My first Java repository.
 author- raju gorai
