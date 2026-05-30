@@ -10,4 +10,4 @@ This repository contains my Java programs and DSA practice.
 - OOPs
 - DSA
 
-Author: Raju Gora
+Author: Raju Gorai
