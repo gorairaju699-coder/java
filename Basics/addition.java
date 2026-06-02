@@ -8,8 +8,6 @@ public class addition {
        int b= sc.nextInt();
        int sum= a+b;
        System.out.print(sum);
-
-
     }
 }
 
